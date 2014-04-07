@@ -1,4 +1,7 @@
 {
+	"dependencies": {
+		"moment": "~2.5.1"
+	},
 	"devDependencies": {
 		"browserify": "~3.38.0",
 		"uglifyify": "~2.1.1"
