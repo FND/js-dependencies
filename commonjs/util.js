@@ -1,5 +1,5 @@
 var moment = require("moment");
-var $ = require("./bower_components/jquery/dist/jquery.js");
+var $ = require("jquery");
 
 exports.info = function(msg) {
 	var timestamp = moment().format("MMMM Do YYYY, h:mm:ss a");
